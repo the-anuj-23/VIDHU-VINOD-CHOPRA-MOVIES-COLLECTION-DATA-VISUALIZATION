@@ -2,7 +2,8 @@
 
 This project involves creating data visualizations for the movies directed by Vidhu Vinod Chopra using Tableau. The aim is to analyze and present various data points related to his movies to provide insights into their performance and other interesting aspects.
 
-![Vidhu Vinod Chopra Movies Data Visualization Screenshot](path/to/your/screenshot.png)
+![VVC](https://github.com/the-anuj-23/VIDHU-VINOD-CHOPRA-MOVIES-COLLECTION-DATA-VISUALIZATION/assets/137100246/54b4aef2-5e4c-491e-a0b0-3e89eab6554d)
+
 
 ## Table of Contents
 
@@ -11,7 +12,6 @@ This project involves creating data visualizations for the movies directed by Vi
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contact](#contact)
 
 ## Project Description
