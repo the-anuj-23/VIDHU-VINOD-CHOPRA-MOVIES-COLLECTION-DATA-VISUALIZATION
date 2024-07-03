@@ -18,12 +18,6 @@ This project involves creating data visualizations for the movies directed by Vi
 
 The Vidhu Vinod Chopra Movies Collection Data Visualization project leverages Tableau to create interactive and insightful dashboards that analyze various aspects of the movies directed by Vidhu Vinod Chopra. This project is designed to extract meaningful patterns and trends from the data, providing a comprehensive overview of his cinematic contributions.
 
-### Objectives
-
-- **Analyze Movie Performance:** Understand the box office performance, critical reception, and audience ratings of movies directed by Vidhu Vinod Chopra.
-- **Visualize Key Metrics:** Present data on various metrics such as revenue, budget, release dates, genres, and more.
-- **Identify Trends:** Highlight patterns in movie performance, release strategies, and critical acclaim over time.
-- **Enhance Decision Making:** Provide actionable insights for filmmakers, critics, and cinema enthusiasts.
 
 ## Features
 
