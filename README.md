@@ -42,7 +42,7 @@ The Vidhu Vinod Chopra Movies Collection Data Visualization project leverages Ta
 
 To view or modify the Tableau visualizations, follow these steps:
 
-1. Ensure you have Tableau Desktop installed. You can download it [here](https://www.tableau.com/products/desktop).
+1. Ensure you have Tableau Desktop installed. You can download it [here](https://www.tableau.com/products/public).
 2. Clone the repository:
    ```sh
    git clone https://github.com/the-anuj-23/VIDHU-VINOD-CHOPRA-MOVIES-DATA-VISUALIZATION.git
